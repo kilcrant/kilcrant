@@ -1,16 +1,15 @@
-### Hi there 👋
+Tim Kilcran
+----
 
-<!--
-**kilcrant/kilcrant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<body>
+Work History
 
-Here are some ideas to get you started:
+I served 4 years of Active Duty with the U.S. Marine Corps as a Transmissions System Operator and Publication Library Management Supervisor.
+As my enlistment came to an end, I decided to pursue my Civilian Career. I currently work as a Manufacturing Technician at Raytheon Missiles and Defense, and transitioned into the Navy Reserves as a Cryptologic Technician Collections (CTR). 
+</body>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+----
+
+Interests
+- Networking
+- Servers/ Switches
